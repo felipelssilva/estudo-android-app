@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.avsemananove">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AvSemanaNove">
+
+        <activity
+            android:name=".alemanha.artistas.KlausActivity"
+            android:exported="true" />
+        <activity
+            android:name=".alemanha.artistas.LudwigActivity"
+            android:exported="true" />
+        <activity
+            android:name=".alemanha.artistas.HeidiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".alemanha.ArtistasActivity"
+            android:exported="true" />
+        <activity
+            android:name=".alemanha.SobrePaisActivity"
+            android:exported="true" />
+        <activity
+            android:name=".alemanha.LugaresActivity"
+            android:exported="true" />
+
+
+        <activity
+            android:name=".japao.artistas.RiusukeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".japao.artistas.YayoiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".japao.artistas.TakashiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".japao.ArtistasActivity"
+            android:exported="true" />
+        <activity
+            android:name=".japao.SobrePaisActivity"
+            android:exported="true" />
+        <activity
+            android:name=".japao.LugaresActivity"
+            android:exported="true" />
+
+        <activity
+            android:name=".china.artistas.RiusukeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".china.artistas.YayoiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".china.artistas.TakashiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".china.ArtistasActivity"
+            android:exported="true" />
+        <activity
+            android:name=".china.SobrePaisActivity"
+            android:exported="true" />
+        <activity
+            android:name=".china.LugaresActivity"
+            android:exported="true" />
+
+        <activity
+            android:name=".india.artistas.RiusukeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".india.artistas.YayoiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".india.artistas.TakashiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".india.ArtistasActivity"
+            android:exported="true" />
+        <activity
+            android:name=".india.SobrePaisActivity"
+            android:exported="true" />
+        <activity
+            android:name=".india.LugaresActivity"
+            android:exported="true" />
+
+        <activity
+            android:name=".argentina.artistas.JoaguinActivity"
+            android:exported="true" />
+        <activity
+            android:name=".argentina.artistas.MariaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".argentina.artistas.CarlosActivity"
+            android:exported="true" />
+        <activity
+            android:name=".argentina.ArtistasActivity"
+            android:exported="true" />
+        <activity
+            android:name=".argentina.SobrePaisActivity"
+            android:exported="true" />
+        <activity
+            android:name=".argentina.LugaresActivity"
+            android:exported="true" />
+
+
+        <activity
+            android:name=".russia.artistas.RiusukeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".russia.artistas.YayoiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".russia.artistas.TakashiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".russia.ArtistasActivity"
+            android:exported="true" />
+        <activity
+            android:name=".russia.SobrePaisActivity"
+            android:exported="true" />
+        <activity
+            android:name=".russia.LugaresActivity"
+            android:exported="true" />
+
+        <activity
+            android:name=".italia.artistas.SophiaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".italia.artistas.LauraActivity"
+            android:exported="true" />
+        <activity
+            android:name=".italia.artistas.MichelangeloActivity"
+            android:exported="true" />
+        <activity
+            android:name=".italia.ArtistasActivity"
+            android:exported="true" />
+        <activity
+            android:name=".italia.SobrePaisActivity"
+            android:exported="true" />
+        <activity
+            android:name=".italia.LugaresActivity"
+            android:exported="true" />
+
+        <activity
+            android:name=".novazelandia.artistas.RiusukeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".novazelandia.artistas.YayoiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".novazelandia.artistas.TakashiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".novazelandia.ArtistasActivity"
+            android:exported="true" />
+        <activity
+            android:name=".novazelandia.SobrePaisActivity"
+            android:exported="true" />
+        <activity
+            android:name=".novazelandia.LugaresActivity"
+            android:exported="true" />
+
+        <activity
+            android:name=".uruguai.artistas.RiusukeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".uruguai.artistas.YayoiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".uruguai.artistas.TakashiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".uruguai.ArtistasActivity"
+            android:exported="true" />
+        <activity
+            android:name=".uruguai.SobrePaisActivity"
+            android:exported="true" />
+        <activity
+            android:name=".uruguai.LugaresActivity"
+            android:exported="true" />
+
+        <activity
+            android:name=".canada.artistas.RiusukeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".canada.artistas.YayoiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".canada.artistas.TakashiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".canada.ArtistasActivity"
+            android:exported="true" />
+        <activity
+            android:name=".canada.SobrePaisActivity"
+            android:exported="true" />
+        <activity
+            android:name=".canada.LugaresActivity"
+            android:exported="true" />
+
+        <activity
+            android:name=".china.ChinaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".india.IndiaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".argentina.ArgentinaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".russia.RussiaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".italia.ItaliaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".alemanha.AlemanhaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".novazelandia.NovaZelandiaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".uruguai.UruguaiActivity"
+            android:exported="true" />
+        <activity
+            android:name=".canada.CanadaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".japao.JapaoActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

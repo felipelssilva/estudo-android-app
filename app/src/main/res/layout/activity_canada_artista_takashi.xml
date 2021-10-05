@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".canada.artistas.TakashiActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Takashi Murakami"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Tipo do artista: artista contemporâneo" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Nascimento: 1 de fevereiro de 1962 (59 anos)" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sobre Takashi Murakami (村上 隆 Murakami Takashi?, Itabashi, Tóquio, 1 de fevereiro de 1962) é um prolífico artista japonês contemporâneo cujo trabalho abrange tanto a pintura quanto as mídias digitais.  Licenciou-se pela Universidade Nacional de Belas Artes e Música de Tóquio obtendo a graduação em nihonga (pintura tradicional japonesa). Entrou no mundo da arte contemporânea em 1990 sob a tutela do artista Masato Nakamura. Em 1993 criou o seu alter ego Mr. DOB. Começou então a ser reconhecido dentro e fora do Japão pela sua particular síntese entre a arte tradicional e contemporânea japonesa e a arte pop norte-americana." />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".argentina.LugaresActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/imagem4" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginBottom="36dp"
+                android:text="Buenos Aires Além de ser a cidade mais visitada da Argentina, Buenos Aires também possui algumas das atrações mais importantes e famosas do país. Por exemplo, o Obelisco, a Plaza de Mayo, a Casa Rosada, o Teatro Cólon, a Feira de San Telmo, todo o bairro de Puerto Madero, o Cemitério da Recoleta e a região do Caminito. Por isso, vale citar a cidade toda como um dos pontos turísticos da Argentina. "
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/imagem5" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginBottom="36dp"
+                android:text="Perito Moreno, El Calafate O gigantesco glaciar Perito Moreno é a principal atração da Patagônia Argentina e o lugar mais impressionante de todo o país. Mesmo com o aquecimento global, ele continua aumentando de tamanho. Além de ser possível admirar as quedas de blocos de gelo enquanto anda pelas passarelas ao seu redor, é possível navegar para ter uma vista frontal e ate mesmo caminhar sobre o glaciar. "
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                app:srcCompat="@drawable/imagem6" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginBottom="36dp"
+                android:text="Cerro Catedral, Bariloche Bariloche é uma das principais cidades turísticas da Argentina e possui diferentes atrações, como o Lago Nahuel Huapi e outras montanhas. Mas o Cerro Catedral é o mais visitado de todos. Aliás, ele é provavelmente a montanha mais visitada da Argentina, pois todos os anos recebe milhares de esquiadores no inverno e também pode ser visitado, mesmo que sem neve, em outras estações do ano. "
+                android:textSize="16sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

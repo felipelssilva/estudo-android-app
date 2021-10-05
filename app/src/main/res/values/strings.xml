@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Av - Semana 9</string>
+    <string name="japao">Japão</string>
+    <string name="canada">Canadá</string>
+    <string name="uruguai">Uruguai</string>
+    <string name="nova_zelandia">Nova Zelândia</string>
+    <string name="alemanha">Alemanha</string>
+    <string name="italia">Italia</string>
+    <string name="russia">Russia</string>
+    <string name="argentina">Argentina</string>
+    <string name="india">Índia</string>
+    <string name="china">China</string>
+    <string name="sobre_o_pais_japao">Sobre o País</string>
+    <string name="sobre_o_pa_s">Sobre o país</string>
+    <string name="artistas">Artistas</string>
+    <string name="bandeira_japao">bandeira_japao</string>
+    <string name="bandeira_alemanha">bandeira_alemanha</string>
+    <string name="lugares_para_conhecer">Lugares para conhecer</string>
+</resources>

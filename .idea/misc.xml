@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_alemanha.xml" value="0.3283514492753623" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_alemanha_artista_heidi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_alemanha_artista_klaus.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_alemanha_artista_ludwig.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_alemanha_artista_riusuke.xml" value="0.3283514492753623" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_alemanha_artista_takashi.xml" value="0.3283514492753623" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_alemanha_artista_yayoi.xml" value="0.3283514492753623" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_alemanha_artistas.xml" value="0.3283514492753623" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_alemanha_lugares.xml" value="0.3283514492753623" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_alemanha_sobre_pais.xml" value="0.3283514492753623" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_argentina.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_argentina_artista_carlos.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_argentina_artista_joaguin.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_argentina_artista_maria.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_argentina_artista_riusuke.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_argentina_artista_takashi.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_argentina_artista_yayoi.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_argentina_artistas.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_argentina_lugares.xml" value="0.33" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_argentina_sobre_pais.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_brasil.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_brasil_artista_riusuke.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_brasil_artista_takashi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_brasil_artista_yayoi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_brasil_artistas.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_brasil_lugares.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_brasil_sobre_pais.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_canada.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_canada_artista_riusuke.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_canada_artista_takashi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_canada_artista_yayoi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_canada_artistas.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_canada_lugares.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_canada_sobre_pais.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_china.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_china_artista_riusuke.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_china_artista_takashi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_china_artista_yayoi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_china_artistas.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_china_lugares.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_china_sobre_pais.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_india.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_india_artista_riusuke.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_india_artista_takashi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_india_artista_yayoi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_india_artistas.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_india_lugares.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_india_sobre_pais.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_italia.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_italia_artista_laura.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_italia_artista_michelangelo.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_italia_artista_sophia.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_italia_lugares.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_japao.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_japao_artista_yayoi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_japao_artistas.xml" value="0.3283514492753623" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_japao_lugares.xml" value="0.2829391891891892" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_japao_sobre_pais.xml" value="0.3283514492753623" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_main.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_nova_zelandia.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_nova_zelandia_artista_riusuke.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_nova_zelandia_artista_takashi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_nova_zelandia_artista_yayoi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_nova_zelandia_artistas.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_nova_zelandia_lugares.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_nova_zelandia_sobre_pais.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_riusuke.xml" value="0.3283514492753623" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_russia.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_russia_artista_riusuke.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_russia_artista_takashi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_russia_artista_yayoi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_russia_artistas.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_russia_lugares.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_russia_sobre_pais.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_sobre_pais.xml" value="0.3283514492753623" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_takashi.xml" value="0.3283514492753623" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_uruguai.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_uruguai_artista_riusuke.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_uruguai_artista_takashi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_uruguai_artista_yayoi.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_uruguai_artistas.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_uruguai_lugares.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_uruguai_riusuke.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_uruguai_sobre_pais.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/activity_yayoi.xml" value="0.3283514492753623" />
+        <entry key="..\:/Users/Fikipi/AndroidStudioProjects/AvSemanaNove/app/src/main/res/layout/fragment_japao.xml" value="0.34782608695652173" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
